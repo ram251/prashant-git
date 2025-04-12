@@ -1,4 +1,4 @@
-apiVersion: v3
+apiVersion: 50
 kind: Pod
 metaData:
   name: ram 
