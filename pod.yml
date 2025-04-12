@@ -3,4 +3,4 @@ kind: Pod
 metaData:
   name: ram 
 spec:
-  replicas: 2
+  replicas: 5
