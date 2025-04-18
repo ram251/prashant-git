@@ -4,4 +4,5 @@ metaData:
   name: java
   namespace: ram
 spec:
+  replicas: 5
 
