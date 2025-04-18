@@ -5,4 +5,5 @@ metaData:
   namespace: ram
 spec:
   replicas: 10
+  image: nginx
 
