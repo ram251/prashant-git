@@ -1,0 +1,7 @@
+apiVersion: apps/v1
+kind: Deployment
+metaData: 
+  name: java
+  namespace: ram
+spec:
+
