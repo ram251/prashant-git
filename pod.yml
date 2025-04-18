@@ -3,3 +3,4 @@ kind: Pod
 metaData:
   name: ram 
 spec:
+  replicas: 10
